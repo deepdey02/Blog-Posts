@@ -1,1 +1,2 @@
 # Blog-Posts
+### I write blogs on Data Science and Data Analytics where I break down complex topics—from machine learning fundamentals to modern concepts like RAG—into simple, actionable insights. My goal is to help learners and professionals understand how data-driven decision-making works in real life. Through these blogs, I share practical explanations, structured thinking, and hands-on examples that make technical ideas easy to grasp and apply.
